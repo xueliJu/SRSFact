@@ -1,6 +1,6 @@
 # SRSFact
 
-The official implementation of the under-review work "Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking System".
+The official implementation of the under-review work "Defending Agentic Fact-Checking Against Adversarial Attacks".
 
 ## Dataset
 
